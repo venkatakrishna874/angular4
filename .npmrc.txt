@@ -1,0 +1,4 @@
+npm config set registry http://registry.npmjs.org/
+npm config set http-proxy http://C249167:Hymavathi@874@40.36.107.130:4200
+npm config set https-proxy http://C249167:Hymavathi@874@40.36.107.130:4200
+npm set strict-ssl false
